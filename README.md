@@ -19,10 +19,10 @@ This project is an example for nodejs server and react server rendering with ES6
 
 
 ## install
-npm install webpack -g
-npm install nodemon -g
-npm install
+`npm install webpack -g`
+`npm install nodemon -g`
+`npm install`
 
 
 ## run
-npm start
+`npm start`
