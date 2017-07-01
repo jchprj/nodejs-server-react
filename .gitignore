@@ -1,0 +1,6 @@
+.bin
+/out.log
+react/node_modules
+node_modules
+package-lock.json
+public/bundle.js
